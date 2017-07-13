@@ -3,9 +3,9 @@ hello-squarespace
 <li>make new isabelklee logo</li>
 <li>make square project assets for landing page</li>
   <ul>
-  <li>devries global</li>
+  <li><s>devries global</s></li>
   <li>give red</li>
-  <li>hackmcgill</li>
+  <li><s>hackmcgill</s></li>
   <li>illustrations</li>
   <li>iconography</li>
   <li>photography</li>
