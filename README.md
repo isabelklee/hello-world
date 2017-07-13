@@ -4,7 +4,7 @@ hello-squarespace
 <li>make square project assets for landing page</li>
   <ul>
   <li><s>devries global</s></li>
-  <li>give red</li>
+  <li><s>give red</s></li>
   <li><s>hackmcgill</s></li>
   <li>illustrations</li>
   <li>iconography</li>
