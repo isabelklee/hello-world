@@ -6,9 +6,6 @@ hello-squarespace
   <li><s>devries global</s></li>
   <li><s>give red</s></li>
   <li><s>hackmcgill</s></li>
-  <li>illustrations</li>
-  <li>iconography</li>
-  <li>photography</li>
   </ul>
 <li>clean up project assets</li>
   <ul>
