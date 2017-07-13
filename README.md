@@ -15,4 +15,4 @@ hello-squarespace
   <li>hackmcgill</li>
   </ul>
   
-  <li<add illustration, photography, and iconography as nav links</li>
+  <li>add illustration, photography, and iconography as nav links</li>
