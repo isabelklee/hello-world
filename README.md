@@ -14,5 +14,4 @@ hello-squarespace
   <li>give red</li>
   <li>hackmcgill</li>
   </ul>
-  
-  <li>add illustration, photography, and iconography as nav links</li>
+<li>add illustration, photography, and iconography as nav links</li>
