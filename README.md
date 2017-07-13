@@ -1,4 +1,4 @@
-# hello-world
-this is a totally unique branch
-<br>completely different from the first one o k</br>
-<br>this is the branch to end all branches</br>
+hello-squarespace
+<ol>
+<li>make new isabelklee logo</li>
+<li>make square project assets for landing page</li>
