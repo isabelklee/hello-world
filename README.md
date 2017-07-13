@@ -1,7 +1,7 @@
 hello-squarespace
 <ol>
 <li><s>make new isabelklee logo</s></li>
-<li>make square project assets for landing page</li>
+<li><s>make square project assets for landing page</s></li>
   <ul>
   <li><s>devries global</s></li>
   <li><s>give red</s></li>
