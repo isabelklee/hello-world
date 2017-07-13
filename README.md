@@ -10,7 +10,7 @@ hello-squarespace
 <li>clean up project assets</li>
   <ul>
   <li>edelman</li>
-  <li>devries global</li>
+  <li><s>devries global</s></li>
   <li>give red</li>
   <li>hackmcgill</li>
   </ul>
